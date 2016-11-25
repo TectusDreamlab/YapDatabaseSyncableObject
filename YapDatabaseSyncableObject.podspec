@@ -4,12 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "A short description of YapDatabaseSyncableObject."
 
-  s.description  = <<-DESC
-                   A class extracted from the original YapDatabase [MyDatabaseObject](https://github.com/yapstudios/YapDatabase/tree/master/Examples/MyDatabaseObjectExample) Example. 
-                   [Wiki entry](https://github.com/yapstudios/YapDatabase/wiki/MyDatabaseObject)
-                   
-
-  s.homepage     = "http://github.com/YapDatabaseSyncableObject"
+  s.homepage     = "http://github.com/TectusDreamlab/YapDatabaseSyncableObject"
   s.license      = { :type => "BSD", :file => "LICENSE.txt" }
   s.author             = { "Robbie Hanson" => "robbiehanson@deusty.com" }
   
