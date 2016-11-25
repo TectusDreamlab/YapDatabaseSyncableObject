@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.watchos.deployment_target = '2.0'
 
 
-  s.source       = { :git => "http://github.com/YapDatabaseSyncableObject.git", :tag => "#{s.version}" }
+  s.source       = { :git => "http://github.com/TectusDreamlab/YapDatabaseSyncableObject.git", :branch => "master" }
   s.source_files  = "YapDatabaseSyncableObject.{h,m}"
   s.public_header_files = "YapDatabaseSyncableObject.h"
 
